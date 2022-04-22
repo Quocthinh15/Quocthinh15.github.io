@@ -9,36 +9,33 @@
   <p>Hien dang la sinh vien truong Cao Dang Ky Thuat Cong Nghe Nha Trang</p>
   <img src="qt.jpg" alt="HOTBOYQUANCAM" width="500" height="600">
   <h2>TKB</h2>
-  <table>
+<table>
   <tr>
-    <th>thoigian</th>
-    <th>THU 2</th>
-    <th>THU 3</th>
-    <th>THU 4</th>
-    <th>THU 5</th>
-    <th>THU 6</th>
-    <th>THU 7</th>
+    <th>ThoiGian</th>
+    <th>T2</th>
+    <th>T3</th>
+    <th>T4</th>
+    <th>T5</th>
+    <th>T6</th>
   </tr>
   <tr>
-    <td>sang</td>
-    <td>Gia lap Python co ban (80 tiet).(tiet 1-4),(1-10)</td>
-    <td>Gia lap Python co ban (80 tiet).(tiet 1-4),(1-10)</td>
-    <td>Lap rap va bao tri may tinh (60 tiet).(tiet 1-4),(1-15)</td>
-    <td></td>
-    <td>Thiet ke va quan tri website (90 tiet).(tiet 1-4),(1-18)</td>
-    <td></td>
+    <td>Sang</td>
+    <td>Lap trinh python</td>
+    <td>Lap trinh python</td>
+    <td>Lap Lap rap va bao tri may tinh</td>
+    <td>Cau truc du lieu</td>
+    <td>thiet ke va bao tri website</td>
+    
   </tr>
   <tr>
-    <td>chieu</td>
+    <td>Chieu</td>
     <td></td>
-    <td>The duc the chat (60 tiet).(tiet 1-4),(1-15)</td>
-    <td>English CN (45 tiet).(tiet 1-4),(1-11)</td>
-    <td>Co so du lieu (60 tiet).(tiet 1-4),(1-15)</td>
-    <td><td>Thiet ke va quan tri website (90 tiet).(tiet 1-4),(1-18)</td>
-    <td>Cau truc du lieu va giai thuat (60 tiet).(tiet 1-4)(tuan1-15)</td>
+    <td>giao duc the chat</td>
+    <td>Tieng Anh Chuyen Nganh</td>
+    <td>Co so du lieu</td>
+    <td>thiet ke va bao tri website</td>
   </tr>
-  
-</table>
-
+</table>    
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftatca.dm.1%2Fvideos%2F793543908037192%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 </body>
 </html>
