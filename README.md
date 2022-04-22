@@ -25,7 +25,6 @@
     <td>Lap Lap rap va bao tri may tinh</td>
     <td>Cau truc du lieu</td>
     <td>thiet ke va bao tri website</td>
-    
   </tr>
   <tr>
     <td>Chieu</td>
