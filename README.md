@@ -1,39 +1,40 @@
-<html>
+<DOCTYPE html>
+<html lang="en">
 <head>
-<title>Quoc Thinh</title>
-</head>
-<body background = qt.jpg >
-
-<h1>Quoc thinh</h1>
-<p Hi man name is Thinh </p>
-  <p>Catch me if you can</p>
-  <h2>TKB</h2>
-<table>
-  <tr>
-    <th>ThoiGian</th>
-    <th>T2</th>
-    <th>T3</th>
-    <th>T4</th>
-    <th>T5</th>
-    <th>T6</th>
-  </tr>
-  <tr>
-    <td>Sang</td>
-    <td>Lap trinh python</td>
-    <td>Lap trinh python</td>
-    <td>Lap Lap rap va bao tri may tinh</td>
-    <td>Cau truc du lieu</td>
-    <td>thiet ke va bao tri website</td>
-  </tr>
-  <tr>
-    <td>Chieu</td>
-    <td></td>
-    <td>giao duc the chat</td>
-    <td>Tieng Anh Chuyen Nganh</td>
-    <td>Co so du lieu</td>
-    <td>thiet ke va bao tri website</td>
-  </tr>
-</table>    
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Ftatca.dm.1%2Fvideos%2F793543908037192%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-</body>
-</html>
+    <meta charset="utf-8">
+  <title>
+      beautifrl and simple website using html only -- fullywrold web tutorials
+  </title>
+  </head>
+  <body background="1600w-YJ7gpkBbg2Y.webp">
+    <br />
+    <h3 align="center">
+      <font face="lato"size="6">LOGO</font>
+      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+      <font face="cinzel" size="4">
+        <a href="#">HOME</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#">HOME</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#">HOME</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#">HOME</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#">HOME</a>
+      </font>
+    </h3>
+    <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+    <h1 align="center">
+      <font face="Lato" color="#017bf5" size="7">
+          BEAUTIFUL AND SIMPLE WEB PAGE
+      </font>
+    </h1>
+    <h3 align="center">
+      <font face="Lato" color="#000" size="7">
+        USING HTML ONLY (NO CSS USED)
+      </font>
+    </h3>
+    </br>
+  <h3 align="center">
+    <a hred="#">GET STARTED</a>
+  </h3>
+  </body>
+  </html>
