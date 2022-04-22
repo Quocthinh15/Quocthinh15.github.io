@@ -2,12 +2,11 @@
 <head>
 <title>Quoc Thinh</title>
 </head>
-<body>
+<body background = qt.jpg >
 
 <h1>Quoc thinh</h1>
 <p>Xin chao toi ten Quoc Thinh</p>
   <p>Hien dang la sinh vien truong Cao Dang Ky Thuat Cong Nghe Nha Trang</p>
-  <img src="qt.jpg" alt="HOTBOYQUANCAM" width="500" height="600">
   <h2>TKB</h2>
 <table>
   <tr>
