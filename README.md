@@ -5,8 +5,8 @@
 <body background = qt.jpg >
 
 <h1>Quoc thinh</h1>
-<p>Xin chao toi ten Quoc Thinh</p>
-  <p>Hien dang la sinh vien truong Cao Dang Ky Thuat Cong Nghe Nha Trang</p>
+<p Hi man name is Thinh </p>
+  <p>Catch me if you can</p>
   <h2>TKB</h2>
 <table>
   <tr>
