@@ -23,18 +23,18 @@
     </h3>
     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
     <h1 align="center">
-      <font face="Lato" color="#e36ecd" size="6">
+      <font face="Lato" color="#F0FFF0" size="6">
          Cách mà ta vượt lên trên tất cả 
       </font>
     </h1>
     <h3 align="center">
-      <font face="Lato" color="#2be02e" size="4"
+      <font face="Lato" color="#F0FFF0" size="4"
         this is my page
       </font>
     </h3>
       
   <h3 align="center">
-    <a color="#e8e8e8"hred="#">Cảm hứng là nơi bắt đầu </a> 
+    <a color="#F0FFF0"hred="#">Cảm hứng là nơi bắt đầu </a> 
   </h3>
   </body>
   </html>
