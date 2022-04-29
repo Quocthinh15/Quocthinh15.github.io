@@ -9,7 +9,7 @@
   <body background="321.jpg">
     <br />
     <h3 align="center">
-      <font face="lato"size="6"color="#e36ecd">Trang Chủ</font>
+      <font face="lato"size="6"color="#2161D1">Trang Chủ</font>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
