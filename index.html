@@ -23,8 +23,8 @@
     </h3>
     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
     <h1 align="center">
-      <font face="Lato" color="#e36ecd" size="5">
-          Hey man! Chill everyday this is page of Thinh
+      <font face="Lato" color="#e36ecd" size="6">
+         Cách mà ta vượt lên trên tất cả 
       </font>
     </h1>
     <h3 align="center">
@@ -34,7 +34,7 @@
     </h3>
     </br>
   <h3 align="center">
-    <a color="#e8e8e8"hred="#">nơi ước mơ bắt đầu </a> 
+    <a color="#e8e8e8"hred="#">Đời ngắn lắm đừng ngủ dài </a> 
   </h3>
   </body>
   </html>
