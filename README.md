@@ -14,11 +14,11 @@
        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       <font face="cinzel" size="4">
-        <a href="#">Trang cá nhân</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="https://hopamchuan.com/">Học hợp âm</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#">Học Đàn</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#">Học Cajon</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#">Học Piano</a>
+        <a href="#"color="#F0FFF0">Trang cá nhân</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="https://hopamchuan.com/"color="#F0FFF0">Học hợp âm</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#"color="#F0FFF0">Học Đàn</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#"color="#F0FFF0">Học Cajon</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#"color="#F0FFF0">Học Piano</a>
       </font>
     </h3>
     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
@@ -32,9 +32,9 @@
         this is my page
       </font>
     </h3>
-    </br>
+      
   <h3 align="center">
-    <a color="#e8e8e8"hred="#">Đời ngắn lắm đừng ngủ dài </a> 
+    <a color="#e8e8e8"hred="#">Cảm hứng là nơi bắt đầu </a> 
   </h3>
   </body>
   </html>
