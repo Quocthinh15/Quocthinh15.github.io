@@ -25,7 +25,7 @@ a {
 
 .banner {
     position: relative;
-    background: url(6.jfif) black center/cover no-repeat;
+    background: url(0.png) black center/cover no-repeat;
     width: 100%;
     height: 60vh;
 }
