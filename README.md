@@ -1,40 +1,73 @@
-<DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-  <title>
-     Hey man! Chill everyday this is page of Thinh 
-  </title>
-  </head>
-  <body background="543.jpeg">
-    <br />
-    <h3 align="center">
-      <font face="lato"size="6"color="#F0FFF0">Trang Chủ</font>
-      &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-      <font face="cinzel" size="4">
-        <a href="#"color="#F0FFF0" style="border:2px solid black;">Trang cá nhân</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="https://hopamchuan.com/"color="#F0FFF0" style="border:2px solid black;">Học hợp âm</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#"color="#F0FFF0" style="border:2px solid black;">Học Đàn</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#"color="#F0FFF0" style="border:2px solid black;">Học Cajon</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#"color="#F0FFF0" style="border:2px solid black;">Học Piano</a>
-      </font>
-    </h3>
-    <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-    <h1 align="center">
-      <font face="Lato" color="#F0FFF0" size="6">
-         Cách mà ta vượt lên trên tất cả 
-      </font>
-    </h1>
-    <h3 align="center">
-      <font face="Lato" color="#F0FFF0" size="4"
-        this is my page
-      </font>
-    </h3>
-      
-  <h3 align="center">
-    <a color="#F0FFF0"hred="#">Cảm hứng là nơi bắt đầu </a> 
-  </h3>
-  </body>
-  </html>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <link rel="stylesheet" href="style/Untitled-1.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script>
+            $(function() {
+                $(".hamburger").on("click", function() {
+                    if($(".menu").hasClass("active")) {
+                        $(".menu").removeClass("active");
+                    }
+                    else {
+                        $(".menu").addClass("active")
+                    }
+                })
+            });
+        </script>
+        <title>Quốc Thịnh và Hành trình trở thành nghệ sĩ nhân dân</title>
+    </head>
+    <body>
+        <div class="banner">
+            <div class="slogan">
+                <h1>Quốc Thịnh và Hành trình trở thành nghệ sĩ nhân dân</h1>
+                <p>Superhotpowermusic</p>
+            </div>
+        </div>
+
+        <nav class="navbar flex">
+            <h1 class="logo">MusicX</h1>
+            <div class="menu">
+                <a href="#">LỚP HỌC NHẠC</a>
+                <a href="#">THÔNG TIN CÁ NHÂN</a>
+                <a href="#">FACEBOOK</a>
+                <a href="#">ZALO</a>
+                <a href="#">HẾT</a>
+            </div>
+            <button class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </nav>
+
+        <div class="benefit">
+            <span class="icon">
+                <img src="https://www.kindpng.com/picc/m/149-1492010_music-logo-png-182-take-off-your-pants.png" alt="icon">
+            </span>
+
+            <h1 class="disclaim">Giới thiệu các dạng dụng cụ âm nhạc</h1>
+
+            <div class="container">
+                <div class="content">
+                    <h3>Đàn Guitar</h3>
+                    <p>Cây đàn guitar là một công cụ âm nhạc phổ biến trên toàn thế giới. Guitar tạo ra âm thanh bằng cách sử dụng một hộp gỗ hoặc nhựa và gỗ rỗng (cho một cây guitar acoustic), hoặc thông qua bộ khuếch đại điện và loa). Đâylà một loại nhạc cụ có phím và dây.</p>
+                </div>
+                <div class="content">
+                    <h3>Đàn Tranh</h3>
+                    <p>Cây đàn guitar là một công cụ âm nhạc phổ biến trên toàn thế giới. Guitar tạo ra âm thanh bằng cách sử dụng một hộp gỗ hoặc nhựa và gỗ rỗng (cho một cây guitar acoustic), hoặc thông qua bộ khuếch đại điện và loa). Đâylà một loại nhạc cụ có phím và dây.</p>
+                </div>
+                <div class="content">
+                    <h3>Đàn Piano</h3>
+                    <p>Đàn piano là một nhạc cụ thuộc bộ dây phím, trong đó âm thanh được phát ra khi búa đàn đánh vào dây, đây là một nhạc cụ sử dụng bàm phím, người chơi sẽ dùng đôi bàn tay chạm vào từng phím đàn để búa đàn đánh vào ra từ đó phát ra âm thanh</p>
+                </div>
+                <div class="content">
+                    <h3>Đàn Violin</h3>
+                    <p>Đàn Violin thường được sử dụng trong nhiều thể loại nhạc khác nhau. Phổ biến nhất là trong các dàn nhạc giao hưởng cổ điển, nhạc Jazz, Pop..... Đàm Violin cơ bản gồm bốn dây, mỗi dây cách nhau một quãng năm đúng. Violin được phát triển vào thế kỉ 16 tại Italia.</p>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>
