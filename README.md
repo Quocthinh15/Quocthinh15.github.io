@@ -22,7 +22,7 @@
     <body>
         <div class="banner">
             <div class="slogan">
-                <h1>Quốc Thịnh và Hành trình trở thành nghệ sĩ nhân dân</h1>
+                <h1 style="color:#FDFCFD">Quốc Thịnh và Hành trình trở thành nghệ sĩ nhân dân</h1>
                 <p>Superhotpowermusic</p>
             </div>
         </div>
@@ -32,7 +32,7 @@
             <div class="menu">
                 <a href="#">LỚP HỌC NHẠC</a>
                 <a href="#">THÔNG TIN CÁ NHÂN</a>
-                <a href="#">FACEBOOK</a>
+                <a href="#https://www.facebook.com/tatca.dm.1">FACEBOOK</a>
                 <a href="#">ZALO</a>
                 <a href="#">HẾT</a>
             </div>
@@ -71,3 +71,4 @@
         </div>
     </body>
 </html>
+
