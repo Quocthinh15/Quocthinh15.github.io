@@ -31,10 +31,10 @@
             <h1 class="logo">MusicX</h1>
             <div class="menu">
                 <a href="#">LỚP HỌC NHẠC</a>
-                <a href="#">THÔNG TIN CÁ NHÂN</a>
-                <a href="#https://www.facebook.com/tatca.dm.1">FACEBOOK</a>
+                <a href=" Quocthinh15.github.io ">java bai 1</a>
                 <a href="#">ZALO</a>
-                <a href="#">HẾT</a>
+                <a href=" https://www.facebook.com/tatca.dm.1 ">FACEBOOK</a>
+                <a href="#">HẾT</a>  
             </div>
             <button class="hamburger">
                 <span></span>
