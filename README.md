@@ -34,6 +34,7 @@
                 <a href=" https://hopamchuan.com/ ">Hợp âm </a>
                 <a href="#">ZALO</a>
                 <a href=" https://www.facebook.com/tatca.dm.1 ">FACEBOOK</a>
+                <a href="bai java.io/javacript.html/"<Bàitậpcủatôi </a>
                 <a href="#">HẾT</a>  
             </div>
             <button class="hamburger">
@@ -71,4 +72,3 @@
         </div>
     </body>
 </html>
-
